@@ -67,7 +67,7 @@
     "markdownlint-cli": "^0.27.1",
     "node-fetch": "^2.6.1",
     "npm-run-all": "^4.1.5",
-    "nuxt-edge": "^2.16.0-27000017.8e2cad5a",
+    "nuxt-edge": "^2.16.0-27001452.1676b861",
     "nuxt-i18n": "^6.26.0",
     "prettier": "^2.2.1",
     "prism-themes": "^1.6.0",
